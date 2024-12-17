@@ -13,8 +13,8 @@ body {
 
 img {
     max-width: 30%;
-    height: auto;
-    width: auto;
+    height: 128;
+    width: 100;
 }
 
 a {
