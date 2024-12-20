@@ -1,1 +1,27 @@
+* {
+    box-sizing: border-box;
+}
 
+body {
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    color: black;
+    background-color: white;
+}
+
+img {
+    max-width: 125%;
+    height: 220;
+    width: 180;
+}
+
+a {
+    color: deeppink;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkmagenta;
+}
